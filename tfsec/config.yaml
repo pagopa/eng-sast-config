@@ -3,3 +3,4 @@ min_required_version: v1.20.0
 exclude:
   - aws-s3-enable-bucket-encryption
   - aws-s3-encryption-customer-key
+  - aws-dynamodb-enable-at-rest-encryption
