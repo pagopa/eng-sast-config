@@ -5,3 +5,4 @@ exclude:
   - aws-s3-encryption-customer-key
   - aws-s3-enable-versioning
   - aws-dynamodb-enable-at-rest-encryption
+  - aws-dynamodb-table-customer-key
